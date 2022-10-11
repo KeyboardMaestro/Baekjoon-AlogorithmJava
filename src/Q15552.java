@@ -8,7 +8,7 @@ public class Q15552 {
         BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out));
         String[] numbersInString;
         int sum = 0;
-        int num[] = new int[2];
+        int[] num = new int[2];
         int testcases = Integer.parseInt(reader.readLine());
         for (int i = 0 ; i < testcases ; i++){
             sum = 0;
