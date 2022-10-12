@@ -9,11 +9,11 @@ public class Q4344 {
             int students = scanner.nextInt();
             double studentD = students;
             int overAvg = 0;
-            double[] scores = new double[students];
+            int[] scores = new int[students];
             for (int j = 0 ; j < students; j++){
-                scores[j] = scanner.nextDouble();
+                scores[j] = scanner.nextInt();
             }
-            for (double score : scores){
+            for (int score : scores){
                 if (score > Arrays.stream(scores).average().getAsDouble())
                     overAvg++;
                 else
