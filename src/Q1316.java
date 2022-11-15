@@ -6,7 +6,7 @@ public class Q1316 {
         Scanner scanner = new Scanner(System.in);
         int cases = scanner.nextInt();
         scanner.reset();
-        boolean key = true;
+        boolean key;
         String[] strings = new String[cases];
         int count = 0;
         for (int i = 0; i < cases ; i++){
