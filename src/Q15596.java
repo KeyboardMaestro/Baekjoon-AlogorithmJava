@@ -1,5 +1,5 @@
 //Baekjoon Question15596
-
+//Resource : https://www.acmicpc.net/problem/15596
 public class Q15596 {
     public static void main(String[] args) {
 

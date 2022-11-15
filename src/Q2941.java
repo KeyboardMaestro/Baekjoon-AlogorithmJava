@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //Baekjoon Question 2941
+//Resource : https://www.acmicpc.net/problem/2941
 public class Q2941 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

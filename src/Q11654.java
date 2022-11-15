@@ -1,4 +1,5 @@
-//Question 11654
+//Baekjoon Question 11654
+//Resource : https://www.acmicpc.net/problem/11654
 import java.util.Scanner;
 public class Q11654 {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
 //Baekjoon Questipn4344
+//Resource : https://www.acmicpc.net/problem/4344
 import java.util.Arrays;
 import java.util.Scanner;
 public class Q4344 {

@@ -1,4 +1,5 @@
 //Baekjoon Question 3052
+//Resource : https://www.acmicpc.net/problem/3052
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;

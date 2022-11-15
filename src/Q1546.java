@@ -1,4 +1,5 @@
 //Baekjoon Question1546
+//Resource : https://www.acmicpc.net/problem/1546
 import java.util.Arrays;
 import java.util.Scanner;
 

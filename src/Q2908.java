@@ -1,4 +1,5 @@
 //Baekjoon Question 2908
+//Resource : https://www.acmicpc.net/problem/2908
 import java.util.*;
 
 public class Q2908 {

@@ -1,3 +1,5 @@
+//Baekjoon Question 25083
+//Resource : https://www.acmicpc.net/problem/25083
 public class Q25083
 {
     public static void main(String[] args) {

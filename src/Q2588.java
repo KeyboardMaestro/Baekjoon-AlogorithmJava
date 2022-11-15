@@ -1,3 +1,5 @@
+//Baekjoon Question 2588
+//Resource : https://www.acmicpc.net/problem/2588
 import java.util.Scanner;
 
 public class Q2588 {

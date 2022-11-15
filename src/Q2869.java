@@ -1,5 +1,5 @@
 //Baekjoon Question 2869
-
+//Resource : https://www.acmicpc.net/problem/2869
 import java.io.*;
 
 public class Q2869 {

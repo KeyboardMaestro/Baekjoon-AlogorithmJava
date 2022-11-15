@@ -1,3 +1,5 @@
+/// Beakjoon Question 10172
+//Resource : https://www.acmicpc.net/problem/10172
 public class Q10172
 {
     public static void main(String[] args) {

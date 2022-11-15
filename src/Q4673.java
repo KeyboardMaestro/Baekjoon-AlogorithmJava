@@ -1,9 +1,7 @@
 //Baekjoon Question4673
+//Resource : https://www.acmicpc.net/problem/4673
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Scanner;
-
 public class Q4673{
     public static void main(String[] args) {
         int a = 1;

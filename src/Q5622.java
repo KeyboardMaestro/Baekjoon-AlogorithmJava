@@ -1,7 +1,7 @@
+//Baekjoon Question 5622
+//Resource : https://www.acmicpc.net/problem/5622
 import java.io.IOException;
 import java.util.Scanner;
-
-//Baekjoon Question 5622
 public class Q5622 {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);

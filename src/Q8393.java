@@ -1,4 +1,5 @@
 /// Beakjoon Question 8393
+//Resource : https://www.acmicpc.net/problem/8393
 import java.util.Scanner;
 
 public class Q8393 {

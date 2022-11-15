@@ -1,4 +1,5 @@
 //Baekjoon Question 1110
+//Resource : https://www.acmicpc.net/problem/1110
 import java.util.*;
 
 public class Q1110 {

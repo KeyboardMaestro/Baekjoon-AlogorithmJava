@@ -1,6 +1,6 @@
 //Baekjoon Question2675
+//Resource : https://www.acmicpc.net/problem/2675
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.Scanner;
 public class Q2675 {
     public static void main(String[] args) throws IOException {
